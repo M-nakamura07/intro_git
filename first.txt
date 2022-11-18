@@ -1,2 +1,4 @@
 gitをはじめます
 はじめます
+git.add
+git.commit
